@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <style src="extra.css"></style>
+
+    <title class="deneme">bootstrap</title>
+  </head>
+  <body>
+ 
+<div class="container-fluid ">
+<div class="row">
+<div class="col-lg-9 border">
+  <div class="row">
+    <div class="col-md-4"> <img src="furkankalkan.jpg" alt="" class="img-fluid"> </div>
+    <div class="col-md-8  border">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper maximus libero, vitae fermentum leo luctus  ut. Nullam vehicula scelerisque augue in ornare. Quisque fringilla sodales enim id eleifend. Nulla facilisi. Suspendisse metus leo, dignissim et purus sed, fringilla placerat felis. Quisque vel aliquam metus. Etiam eget lorem sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent id quam consectetur, feugiat neque et, interdum elit. Nullam sem est, imperdiet et commodo sed, pulvinar semper risus. Vestibulum vehicula porttitor ipsum. Morbi eleifend ipsum id tortor luctus consequat. Vivamus ac condimentum purus.
+    
+      Fusce ultricies ex a ex viverra, ac mollis justo lacinia. Aenean elit velit, lobortis at elit vel, volutpat cursus justo. Pellentesque aliquam nisl sed ante porttitor, ut scelerisque nulla mollis. Quisque varius, tellus non tempor vehicula, nisl ipsum sagittis diam, vitae convallis sapien diam dapibus ipsum. Suspendisse in viverra urna, id imperdiet ante. Mauris tortor magna, venenatis ac finibus ac, convallis et quam. Integer in metus condimentum, efficitur urna vitae, pellentesque enim. Aenean auctor lorem ante, eget lobortis dolor gravida vel.</div>
+  </div>
+  </div>
+ 
+<div class="col-lg-3 bg-danger border">
+<h2>Menüler</h2>
+<ul> 
+<li>Anasayfa</li>
+<li>Hakkımızda</li>
+<li>Galeri</li>
+<li>İletişim</li>
+</ul>
+ 
+</div>
+ 
+</div>
+</div>
+ 
+ <!--
+<div class="container-fluid   p-3">
+  <div class="row">
+    <div class="col-1  p-3  col-6 col-sm-4 col-lg-4  bb-dark">Kolon</div>
+    <div class="col-1 py-   col-6 col-sm-4 col-lg-4 bg-success">Kolon</div>
+    <div class="col-1  py-3  col-6 col-sm-4 col-lg-4 bg-secondary">Kolon</div>
+    <div class="col-1  py-3  col-6 col-sm-4 col-lg-1 bg-danger">Kolon</div>
+
+ 
+  </div>
+ 
+  <div class="row bg-danger my-4">
+    <div class="col-2  py-3  gb-dark">Kolon</div>
+    <div class="col-2 py-3  bg-success">Kolon</div>
+    <div class="col-2  py-3 bg-secondary">Kolon</div>
+    <div class="col-2  py-3 bg-danger">Kolon</div>
+    <div class="col-2  py-3 bg-warning">Kolon</div>
+    <div class="col-2  py-3 bg-danger">Kolon</div>
+  </div>
+
+<div class="row row-cols-2   mt-5 ">
+  <div class="col bg-success">
+  <div class="col bg-danger">Merhaba</div>
+  <div class="col bg-primary">merhaba</div>
+  <div class="col bg-warning">merhaba</div>
+ </div>
+ <div class="col bg-warning">Kolon</div> 
+</div>
+
+
+</div>
+
+--->
+ 
+ 
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
